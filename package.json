@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/andrehao/lebil/issues"
   },
-  "homepage": "https://github.com/andrehao/lebil#readme"
+  "homepage": "https://github.com/andrehao/lebil#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
